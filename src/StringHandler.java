@@ -8,13 +8,19 @@ public class StringHandler {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
 
-        for(int i = 0; i < s.length(); i++){
-            char temp = s.charAt(i);
+        if(s.length() == 4 || s.length() == 6){
+            for(int i = 0; i < s.length(); i++){
+                char temp = s.charAt(i);
 
-            if(Character.isDigit(temp) == false){
-                answer = false;
+                if(Character.isDigit(temp) == false){
+                    answer = false;
+                }
             }
         }
+        else{
+            answer = false;
+        }
+
 
         System.out.println(answer);
 
