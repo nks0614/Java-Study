@@ -23,7 +23,16 @@ public class StringHandler {
 
 
         System.out.println(answer);
-
-
     }
+
+// 다른 사람 풀이! 되게 충격적이였습니다!
+//     if(s.length() == 4 || s.length() == 6){
+//        try{
+//            int x = Integer.parseInt(s);
+//            return true;
+//        } catch(NumberFormatException e){
+//            return false;
+//        }
+//    }
+//      else return false;
 }
