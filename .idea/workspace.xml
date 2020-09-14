@@ -32,7 +32,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.HidePhoneNumber">
+  <component name="RunManager" selected="Application.Average">
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Average" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HidePhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HidePhoneNumber" />
       <module name="Algorithm" />
@@ -56,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Average" />
         <item itemvalue="Application.HidePhoneNumber" />
         <item itemvalue="Application.HowManyPnY" />
         <item itemvalue="Application.StringHandler" />
@@ -88,25 +96,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1600044838226">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1600069643180">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600044838226" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1600044838226">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600069643180" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1600069643180">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600044838226" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1600044838226">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600069643180" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1600069643180">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600044838226" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1600044838226">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600069643180" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1600069643180">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600044838226" />
-    <state x="459" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1600044027257">
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600069643180" />
+    <state x="459" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1600068941783">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="459" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1600044027257" />
+    <state x="459" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1600068941783" />
   </component>
 </project>
