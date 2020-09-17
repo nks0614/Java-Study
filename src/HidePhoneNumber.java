@@ -4,15 +4,14 @@ public class HidePhoneNumber {
         System.out.println(Solution("0104444999"));
     }
 
-    public static String Solution(String phone){
+    public static String Solution(String phone) {
         String changeNum = "";
 
-        if(phone.length() >= 4){
-            for(int i = 0; i < phone.length(); i++){
-                if(i < phone.length()-4){
+        if (phone.length() >= 4) {
+            for (int i = 0; i < phone.length(); i++) {
+                if (i < phone.length() - 4) {
                     changeNum += "*";
-                }
-                else{
+                } else {
                     changeNum += phone.charAt(i);
                 }
             }
@@ -31,7 +30,7 @@ public class HidePhoneNumber {
 //        }
 //        return String.valueOf(ch);
 //    }
-    
+
 // 이건 정규식 쓰는거
 //    public String solution(String phone_number) {
 //        return phone_number.replaceAll(".(?=.{4})", "*");
