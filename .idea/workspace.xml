@@ -33,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.NoFinishPlayer">
+  <component name="RunManager" selected="Application.IntToString">
     <configuration name="Cal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cal" />
       <module name="Algorithm" />
@@ -55,6 +55,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntToString" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NoFinishPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NoFinishPlayer" />
       <module name="Algorithm" />
@@ -62,20 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SHA256" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SHA256" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntToString" />
         <item itemvalue="Application.NoFinishPlayer" />
         <item itemvalue="Application.Hashmap" />
         <item itemvalue="Application.GoodSquare" />
         <item itemvalue="Application.Cal" />
-        <item itemvalue="Application.SHA256" />
       </list>
     </recent_temporary>
   </component>
@@ -109,26 +109,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="75" key="#Auto_Import/0.0.1536.834@0.0.1536.834" timestamp="1600932208016" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1601393765643">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1601533318994">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601393765643" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1601393765643">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601533318994" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1601533318994">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601393765643" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1601393765643">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601533318994" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1601533318994">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601393765643" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1601393765643">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601533318994" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1601533318994">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601393765643" />
-    <state x="459" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601392058841">
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601533318994" />
+    <state x="459" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601531414879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="459" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1601392058841" />
+    <state x="459" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1601531414879" />
+    <state x="474" y="44" key="refactoring.ChangeSignatureDialog" timestamp="1601532686962">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="474" y="44" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1601532686962" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1600131317036">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
