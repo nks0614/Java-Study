@@ -1,10 +1,11 @@
 public class LevenshteinDistance {
 
     public static void main(String[] args) {
-        System.out.println(getDistance("awf", "abcd"));
+        System.out.println(getDistance("abc", "abcd"));
+
     }
 
-    public static int getDistance(String s1, String s2) {
+    public static double getDistance(String s1, String s2) {
         int longStrLen = s1.length() + 1;
         int shortStrLen = s2.length() + 1;
 
@@ -41,7 +42,8 @@ public class LevenshteinDistance {
             newcost = temp;
         }
         // 가장 마지막값 리턴
-        return cost[longStrLen - 1];
+        double per = (s2.length() - cost[longStrLen - 1]) / (double)s2.length() * 100;
+        return per;
     }
 
 }
