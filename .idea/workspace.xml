@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddTwoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevenshteinDistance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/AddTwoNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/AddTwoNum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.AddTwoNum">
+  <component name="RunManager" selected="Application.LevenshteinDistance">
     <configuration name="AddTwoNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTwoNum" />
       <module name="Algorithm" />
@@ -65,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntToString" />
+    <configuration name="LevenshteinDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevenshteinDistance" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LevenshteinDistance" />
         <item itemvalue="Application.AddTwoNum" />
         <item itemvalue="Application.DartGame" />
         <item itemvalue="Application.FindPrimeNumber" />
         <item itemvalue="Application.CaesarPassword" />
-        <item itemvalue="Application.IntToString" />
       </list>
     </recent_temporary>
   </component>
@@ -112,26 +113,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="75" key="#Auto_Import/0.0.1536.834@0.0.1536.834" timestamp="1601945250291" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1601946921980">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1602047961509">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601946921980" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1601946921980">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602047961509" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1602047961509">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601946921980" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1601946921980">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1602047961509" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1602047961509">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601946921980" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1601946921980">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1602047961509" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1602047961509">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601946921980" />
-    <state x="459" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601944325557">
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1602047961509" />
+    <state x="459" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1602047183968">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="459" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1601944325557" />
+    <state x="459" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1602047183968" />
     <state x="474" y="44" key="refactoring.ChangeSignatureDialog" timestamp="1601532686962">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
