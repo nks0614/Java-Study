@@ -6,7 +6,7 @@ public class FindPrimeNumber {
     }
 
 
-// 맨 처음 짠 코드. 그러나 효율성에서 실패패
+// 맨 처음 짠 코드. 그러나 효율성에서 실패
 //    ublic static int solution(int n) {
 //        int answer = 0;
 //        boolean isPrime = false;
