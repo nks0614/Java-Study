@@ -12,7 +12,7 @@ public class StringDescSort {
 
         Arrays.sort(arr); //자체 sort 기능 사용 (오름차순)
 
-        for(char c : arr){
+        for (char c : arr) {
             answer.append(c); //정렬된 char들을 합치고
         }
 
