@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SquareStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollatzConjecture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +36,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SquareStar">
+  <component name="RunManager" selected="Application.CollatzConjecture">
     <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Budget" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollatzConjecture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollatzConjecture" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,13 +65,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDescSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDescSort" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="XtermN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="XtermN" />
       <module name="Algorithm" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollatzConjecture" />
         <item itemvalue="Application.SquareStar" />
         <item itemvalue="Application.Budget" />
         <item itemvalue="Application.XtermN" />
         <item itemvalue="Application.HarshadNumber" />
-        <item itemvalue="Application.StringDescSort" />
       </list>
     </recent_temporary>
   </component>
@@ -112,22 +112,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="75" key="#Auto_Import/0.0.1536.834@0.0.1536.834" timestamp="1601945250291" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1602653413755">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1602654135784">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602653413755" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1602653413755">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602654135784" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1602654135783">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1602653413755" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1602653413755">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1602654135783" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1602654135783">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1602653413755" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1602653413755">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1602654135783" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1602654135783">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1602653413755" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1602654135783" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1602048165072">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
