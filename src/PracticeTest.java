@@ -4,10 +4,10 @@ public class PracticeTest {
 
     public static void main(String[] args) {
         int[] q = {1,3,2,4,2};
-        int[] a = solution(q);
-        for(int i : a){
-            System.out.println(i);
-        }
+//        int[] a = solution(q);
+//        for(int i : a){
+//            System.out.println(i);
+//        }
     }
 
     // 풀긴 풀었으나 런타임 에러가 뜨고 너무 복잡함
@@ -64,23 +64,23 @@ public class PracticeTest {
 //    }
 
     //다른 사람 코드
-    public static int[] solution(int[] answer) {
-        int[] a = {1, 2, 3, 4, 5}; //수포자1
-        int[] b = {2, 1, 2, 3, 2, 4, 2, 5}; //수포자2
-        int[] c = {3, 3, 1, 1, 2, 2, 4, 4, 5, 5}; //수포자3
-        int[] score = new int[3]; //점수
-        for(int i=0; i<answer.length; i++) { //정답 개수 측정
-            if(answer[i] == a[i%a.length]) {score[0]++;}
-            if(answer[i] == b[i%b.length]) {score[1]++;}
-            if(answer[i] == c[i%c.length]) {score[2]++;}
-        }
-        int maxScore = Math.max(score[0], Math.max(score[1], score[2])); //최대값구하기
-        ArrayList<Integer> list = new ArrayList<>();
-        if(maxScore == score[0]) {list.add(1);}
-        if(maxScore == score[1]) {list.add(2);}
-        if(maxScore == score[2]) {list.add(3);}
-        return list.stream().mapToInt(i->i.intValue()).toArray(); //리스트 변환
-    }
+//    public static int[] solution(int[] answer) {
+//        int[] a = {1, 2, 3, 4, 5}; //수포자1
+//        int[] b = {2, 1, 2, 3, 2, 4, 2, 5}; //수포자2
+//        int[] c = {3, 3, 1, 1, 2, 2, 4, 4, 5, 5}; //수포자3
+//        int[] score = new int[3]; //점수
+//        for(int i=0; i<answer.length; i++) { //정답 개수 측정
+//            if(answer[i] == a[i%a.length]) {score[0]++;}
+//            if(answer[i] == b[i%b.length]) {score[1]++;}
+//            if(answer[i] == c[i%c.length]) {score[2]++;}
+//        }
+//        int maxScore = Math.max(score[0], Math.max(score[1], score[2])); //최대값구하기
+//        ArrayList<Integer> list = new ArrayList<>();
+//        if(maxScore == score[0]) {list.add(1);}
+//        if(maxScore == score[1]) {list.add(2);}
+//        if(maxScore == score[2]) {list.add(3);}
+//        return list.stream().mapToInt(i->i.intValue()).toArray(); //리스트 변환
+//    }
 
 
 
