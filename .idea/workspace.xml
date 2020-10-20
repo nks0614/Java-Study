@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MakeStrangeWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OddEven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MakeStrangeWord">
+  <component name="RunManager" selected="Application.AddDigit">
+    <configuration name="AddDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddDigit" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MakeStrangeWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MakeStrangeWord" />
       <module name="Algorithm" />
@@ -60,15 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeTest" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquareStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SquareStar" />
+    <configuration name="PressKeypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PressKeypad" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddDigit" />
+        <item itemvalue="Application.PressKeypad" />
         <item itemvalue="Application.MakeStrangeWord" />
         <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.MathNum" />
-        <item itemvalue="Application.MathNum" />
-        <item itemvalue="Application.PracticeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -118,22 +117,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1602982526190" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1603065452427">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1603153969501">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603065452427" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1603065452427">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603153969501" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1603153969501">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603065452427" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1603065452427">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603153969501" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1603153969501">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603065452427" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1603065452427">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603153969501" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1603153969501">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603065452427" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603153969501" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1602807873250">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
