@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Iterator;
+
 public class SkillTree {
 
     public static void main(String[] args) {
@@ -32,5 +36,22 @@ public class SkillTree {
 
         return answer;
     }
+
+//    프로그래머스 다른 사람의 풀이에 있는거
+//    정규식 표현과 Iterator를 활용한 간단한 풀이
+//    public int solution(String skill, String[] skill_trees) {
+//        int answer = 0;
+//        ArrayList<String> skillTrees = new ArrayList<String>(Arrays.asList(skill_trees));
+//        //ArrayList<String> skillTrees = new ArrayList<String>();
+//        Iterator<String> it = skillTrees.iterator();
+//
+//        while (it.hasNext()) {
+//            if (skill.indexOf(it.next().replaceAll("[^" + skill + "]", "")) != 0) {
+//                it.remove();
+//            }
+//        }
+//        answer = skillTrees.size();
+//        return answer;
+//    }
 
 }
