@@ -35,6 +35,10 @@
  - 정수의 제곱근
  - 숫자 
  
+ #### Programmers SQL 문제
+ - SUM, MAX, MIN
+ - GROUP BY
+ 
  #### 기타
  - SHA256 암호화
  - HashMap
