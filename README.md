@@ -38,6 +38,7 @@
  #### Programmers SQL 문제
  - SUM, MAX, MIN
  - GROUP BY
+ - SELECT
  
  #### 기타
  - SHA256 암호화
