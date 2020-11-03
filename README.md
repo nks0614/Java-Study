@@ -33,7 +33,9 @@
  - 카펫
  - K번째 수
  - 정수의 제곱근
- - 숫자 
+ - 숫자 게임
+ - 더 맵게
+ 
  
  #### Programmers SQL 문제
  - SUM, MAX, MIN
