@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DeleteMinNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/FirstQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/SecondQuestion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/DeleteMinNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/DeleteMinNum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.DeleteMinNum">
+  <component name="RunManager" selected="Application.FirstQuestion">
     <configuration name="DeleteMinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeleteMinNum" />
       <module name="Algorithm" />
@@ -45,9 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntegerRoot" />
+    <configuration name="FirstQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.FirstQuestion" />
       <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,20 +74,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumK" />
+    <configuration name="SecondQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.SecondQuestion" />
       <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstQuestion" />
+        <item itemvalue="Application.SecondQuestion" />
         <item itemvalue="Application.DeleteMinNum" />
         <item itemvalue="Application.MoreSpicy" />
         <item itemvalue="Application.NumGame" />
-        <item itemvalue="Application.IntegerRoot" />
-        <item itemvalue="Application.NumK" />
       </list>
     </recent_temporary>
   </component>
@@ -113,30 +127,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="75" key="#Auto_Import/0.0.1536.834@0.0.1536.834" timestamp="1601945250291" />
+    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1608705796727">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1608705796727" />
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602982526190">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1602982526190" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1606785528581">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1608704792457">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608704792457" />
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1608707219768">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528581" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604037564725" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1606785528580">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608707219768" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1608707219768">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528580" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604037564725" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1606785528580">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608707219768" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1608707219768">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528580" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604037564725" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1606785528581">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608707219768" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1608707219768">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528581" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604037564725" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608707219768" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1602807873250">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -157,6 +179,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="459" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1602744508418" />
+    <state x="180" y="27" key="new project wizard" timestamp="1608704815508">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="180" y="27" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1608704815508" />
     <state x="474" y="44" key="refactoring.ChangeSignatureDialog" timestamp="1601532686962">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
