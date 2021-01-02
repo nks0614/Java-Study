@@ -45,6 +45,6 @@
  - SELECT
  
  #### 기타
- - SHA256 암호화
+ - programmers.SHA256 암호화
  - HashMap
  - Levenshtein Distance
