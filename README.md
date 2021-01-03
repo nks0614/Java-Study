@@ -1,6 +1,8 @@
-# Algorithm-Study
+# Java-Study
 
-여러 알고리즘 문제를 풀고 올려두는 레포지토리 입니다.
+자바 공부를 하는 레포지토리로, 
+여러 알고리즘 문제나
+자바 개념을 올려둡니다.
 
 #### Programmers 문제
 
@@ -36,15 +38,8 @@
  - 숫자 게임
  - 더 맵게
  
- - DEV-MATCHING 지원
-
- 
- #### Programmers SQL 문제
- - SUM, MAX, MIN
- - GROUP BY
- - SELECT
- 
- #### 기타
- - programmers.SHA256 암호화
+ #### Java 관련 공부
+ - SHA256 암호화
  - HashMap
  - Levenshtein Distance
+ - 깊은 복사, 얕은 복사(deep copy, shallow copy)
