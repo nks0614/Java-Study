@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MacroTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/DeleteMinNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/AddDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTwoNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/AddTwoNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/Budget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaesarPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/CaesarPassword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/Carpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollatzConjecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/CollatzConjecture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DartGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/DartGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeleteMinNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/DeleteMinNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivisionNumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/DivisionNumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindKimInSeoul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/FindKimInSeoul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/FindPrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GoodSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/GoodSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GuessFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/GuessFight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HarshadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/HarshadNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/Hashmap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HidePhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/HidePhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HowManyPnY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/HowManyPnY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/IntToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntegerRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/IntegerRoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LevenshteinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/LevenshteinDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MakeStrangeWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/MakeStrangeWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/MathNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MoreSpicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/MoreSpicy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NoFinishPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/NoFinishPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NoSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/NoSameNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/NumGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/NumK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/OddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/PracticeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SHA256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/SHA256.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SkillTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/SkillTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SquareStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/SquareStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StockPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/StockPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/StringCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringDescSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/StringDescSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/StringHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/XtermN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/XtermN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.JavaCopy">
+  <component name="RunManager" selected="Application.MacroTest">
     <configuration name="DeleteMinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.DeleteMinNum" />
       <module name="Algorithm" />
@@ -104,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreSpicy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.MoreSpicy" />
+    <configuration name="MacroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MacroTest" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MacroTest" />
         <item itemvalue="Application.JavaCopy" />
         <item itemvalue="Application.FirstQuestion" />
         <item itemvalue="Application.SecondQuestion" />
         <item itemvalue="Application.DeleteMinNum" />
-        <item itemvalue="Application.MoreSpicy" />
       </list>
     </recent_temporary>
   </component>
@@ -176,26 +137,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608704792457" />
-    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1609573880731">
+    <state width="723" height="208" key="GridCell.Tab.0.bottom" timestamp="1609650172782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528581" />
-    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609573880731" />
-    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1609573880731">
+    <state width="723" height="208" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609650172782" />
+    <state width="723" height="208" key="GridCell.Tab.0.center" timestamp="1609650172782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528580" />
-    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609573880731" />
-    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1609573880730">
+    <state width="723" height="208" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609650172782" />
+    <state width="723" height="208" key="GridCell.Tab.0.left" timestamp="1609650172782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528580" />
-    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609573880730" />
-    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1609573880731">
+    <state width="723" height="208" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609650172782" />
+    <state width="723" height="208" key="GridCell.Tab.0.right" timestamp="1609650172782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528581" />
-    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609573880731" />
+    <state width="723" height="208" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609650172782" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1609573880731">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
