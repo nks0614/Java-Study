@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MacroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Macro/TempCheckMacro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MacroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macro/MacroTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -37,14 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MacroTest">
-    <configuration name="DeleteMinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.DeleteMinNum" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TempCheckMacro">
     <configuration name="FirstQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.FirstQuestion" />
       <module name="Algorithm" />
@@ -66,7 +61,7 @@
       </method>
     </configuration>
     <configuration name="MacroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MacroTest" />
+      <option name="MAIN_CLASS_NAME" value="Macro.MacroTest" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,13 +80,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TempCheckMacro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Macro.TempCheckMacro" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Macro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TempCheckMacro" />
         <item itemvalue="Application.MacroTest" />
         <item itemvalue="Application.JavaCopy" />
         <item itemvalue="Application.FirstQuestion" />
         <item itemvalue="Application.SecondQuestion" />
-        <item itemvalue="Application.DeleteMinNum" />
       </list>
     </recent_temporary>
   </component>
@@ -137,26 +145,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608704792457" />
-    <state width="723" height="208" key="GridCell.Tab.0.bottom" timestamp="1609650172782">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1609826155261">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528581" />
-    <state width="723" height="208" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609650172782" />
-    <state width="723" height="208" key="GridCell.Tab.0.center" timestamp="1609650172782">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609826155261" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1609826155261">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528580" />
-    <state width="723" height="208" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609650172782" />
-    <state width="723" height="208" key="GridCell.Tab.0.left" timestamp="1609650172782">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609826155261" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1609826155261">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528580" />
-    <state width="723" height="208" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609650172782" />
-    <state width="723" height="208" key="GridCell.Tab.0.right" timestamp="1609650172782">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609826155261" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1609826155261">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1606785528581" />
-    <state width="723" height="208" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609650172782" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609826155261" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1609573880731">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
