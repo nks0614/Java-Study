@@ -36,13 +36,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.WorkoutClothes">
-    <configuration name="FirstQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.FirstQuestion" />
+  <component name="RunManager" selected="Application.Country124">
+    <configuration name="Country124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.Country124" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Country124" />
         <item itemvalue="Application.WorkoutClothes" />
         <item itemvalue="Application.TempCheckMacro" />
         <item itemvalue="Application.MacroTest" />
         <item itemvalue="Application.JavaCopy" />
-        <item itemvalue="Application.FirstQuestion" />
       </list>
     </recent_temporary>
   </component>
