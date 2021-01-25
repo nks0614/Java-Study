@@ -36,7 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Year2016">
+  <component name="RunManager" selected="Application.MacroTest">
     <configuration name="Country124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.Country124" />
       <module name="Algorithm" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempCheckMacro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Macro.TempCheckMacro" />
+    <configuration name="MacroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Macro.MacroTest" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MacroTest" />
         <item itemvalue="Application.Year2016" />
         <item itemvalue="Application.GoodParentheses" />
         <item itemvalue="Application.Country124" />
         <item itemvalue="Application.WorkoutClothes" />
-        <item itemvalue="Application.TempCheckMacro" />
       </list>
     </recent_temporary>
   </component>
