@@ -36,7 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.DivisorSum">
+  <component name="RunManager" selected="Application.Development">
     <configuration name="DescSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.DescSort" />
       <module name="Algorithm" />
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisorSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.DivisorSum" />
+    <configuration name="Development" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.Development" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.GoodParentheses" />
+    <configuration name="DivisorSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.DivisorSum" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Development" />
         <item itemvalue="Application.DivisorSum" />
         <item itemvalue="Application.DescSort" />
         <item itemvalue="Application.MacroTest" />
         <item itemvalue="Application.Year2016" />
-        <item itemvalue="Application.GoodParentheses" />
       </list>
     </recent_temporary>
   </component>
