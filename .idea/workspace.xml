@@ -36,13 +36,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TimerTest">
-    <configuration name="Development" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.Development" />
+  <component name="RunManager" selected="Application.ChatClient">
+    <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concept.chat.ChatClient" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.*" />
+          <option name="PATTERN" value="concept.chat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,11 +51,11 @@
       </method>
     </configuration>
     <configuration name="IOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fileio.IOTest" />
+      <option name="MAIN_CLASS_NAME" value="concept.fileio.IOTest" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fileio.*" />
+          <option name="PATTERN" value="concept.fileio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MacroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="macro.MacroTest" />
+    <configuration name="MultiServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concept.chat.MultiServer" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="macro.*" />
+          <option name="PATTERN" value="concept.chat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,7 +90,7 @@
       </method>
     </configuration>
     <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimerTest" />
+      <option name="MAIN_CLASS_NAME" value="concept.TimerTest" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChatClient" />
+        <item itemvalue="Application.MultiServer" />
         <item itemvalue="Application.TimerTest" />
         <item itemvalue="Application.SecondQuestion" />
         <item itemvalue="Application.IOTest" />
-        <item itemvalue="Application.MacroTest" />
-        <item itemvalue="Application.Development" />
       </list>
     </recent_temporary>
   </component>

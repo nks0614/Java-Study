@@ -1,3 +1,5 @@
+package concept;
+
 public class JavaCopy {
 
     public static void main(String[] args) {
@@ -44,8 +46,8 @@ public class JavaCopy {
 
 
         // 객체 또한 얕은 복사이다.
-//        Student s1 = new Student(10, "김김김");
-//        Student s2 = s1;
+//        concept.Student s1 = new concept.Student(10, "김김김");
+//        concept.Student s2 = s1;
 //
 //        System.out.println(s1.toString());
 //        System.out.println(s2.toString());
