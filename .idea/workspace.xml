@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="" />
+    <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/concept/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Macro/TempCheckMacro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/Macro/TempCheckMacro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macro/TempCheckMacro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macro/TempCheckMacro.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ChatClient">
+  <component name="RunManager" selected="Application.DateTest">
     <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concept.chat.ChatClient" />
       <module name="Algorithm" />
@@ -50,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concept.fileio.IOTest" />
+    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concept.DateTest" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concept.fileio.*" />
+          <option name="PATTERN" value="concept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.SecondQuestion" />
+    <configuration name="TempCheckMacro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="macro.TempCheckMacro" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="macro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateTest" />
+        <item itemvalue="Application.TempCheckMacro" />
         <item itemvalue="Application.ChatClient" />
         <item itemvalue="Application.MultiServer" />
         <item itemvalue="Application.TimerTest" />
-        <item itemvalue="Application.SecondQuestion" />
-        <item itemvalue="Application.IOTest" />
       </list>
     </recent_temporary>
   </component>
@@ -131,5 +136,17 @@
       <updated>1599784258662</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
