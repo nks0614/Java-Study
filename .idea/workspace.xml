@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/concept/DateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Macro/TempCheckMacro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/Macro/TempCheckMacro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Macro/TempCheckMacro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macro/TempCheckMacro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concept/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concept/DateTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
