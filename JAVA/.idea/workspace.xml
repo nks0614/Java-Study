@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-reflect-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-reflect.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-test-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/Macro/MacroTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/Macro/TempCheckMacro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/DateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/JavaCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/TimerTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/TimerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/chat/ChatClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/chat/ChatClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/chat/ChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/chat/ChatHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/chat/MultiServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/concept/fileio/IOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/AddDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/AddTwoNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/Average.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/Budget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/CaesarPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/Carpet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/CollatzConjecture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/Country124.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/DartGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/DeleteMinNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/DescSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/Development.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/DivisionNumArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/DivisorSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/FindKimInSeoul.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/FindPrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/GoodParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/GoodSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/GuessFight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/HarshadNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/Hashmap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/Hashmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/HidePhoneNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/HowManyPnY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/IntToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/IntegerRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/LevenshteinDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/MakeStrangeWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/MathNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/MoreSpicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/NoFinishPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/NoSameNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/NumGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/NumK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/OddEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/PracticeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/SHA256.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/SkillTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/SquareStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/StockPrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/StringCenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/StringDescSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/StringHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/WorkoutClothes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/XtermN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/programmers/Year2016.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/test/FirstQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/test/SecondQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Macro/MacroTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Macro/TempCheckMacro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/concept/DateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/concept/JavaCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/concept/TimerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/concept/chat/ChatClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/concept/chat/ChatHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/concept/chat/MultiServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/concept/fileio/IOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/AddDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/AddTwoNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/Average.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/Budget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/CaesarPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/Carpet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/CollatzConjecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/Country124.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/DartGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/DeleteMinNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/DescSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/Development.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/DivisionNumArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/DivisorSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/FindKimInSeoul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/FindPrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/GoodParentheses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/GoodSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/GuessFight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/HarshadNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/Hashmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/HidePhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/HowManyPnY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/IntToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/IntegerRoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/LevenshteinDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/MakeStrangeWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/MathNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/MoreSpicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/NoFinishPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/NoSameNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/NumGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/NumK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/OddEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/PracticeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/SHA256.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/SkillTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/SquareStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/StockPrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/StringCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/StringDescSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/StringHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/WorkoutClothes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/XtermN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/Year2016.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/FirstQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/SecondQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hLJ5qwaglquYi6udo6Hdwh5ZFx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.DateTest">
+    <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concept.chat.ChatClient" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concept.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concept.DateTest" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concept.chat.MultiServer" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concept.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempCheckMacro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="macro.TempCheckMacro" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="macro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concept.TimerTest" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DateTest" />
+        <item itemvalue="Application.TempCheckMacro" />
+        <item itemvalue="Application.ChatClient" />
+        <item itemvalue="Application.MultiServer" />
+        <item itemvalue="Application.TimerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="" />
+      <created>1599784258662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599784258662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
