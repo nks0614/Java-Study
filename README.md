@@ -4,6 +4,17 @@
 여러 알고리즘 문제나
 자바 개념을 올려둡니다.
 
+ #### Java 관련 공부
+ - SHA256 암호화
+ - HashMap
+ - Levenshtein Distance
+ - 깊은 복사, 얕은 복사(deep copy, shallow copy)
+ - 매크로 (자가진단)
+ - 자바 입출력
+ - 채팅(Socket, SeverSocket)
+
+#### RxJava 공부
+
 #### Programmers 문제
 
  - 문자열 다루기
@@ -42,13 +53,4 @@
  - 124 나라
  - 체육복
  - 기능 
- 
 
- #### Java 관련 공부
- - SHA256 암호화
- - HashMap
- - Levenshtein Distance
- - 깊은 복사, 얕은 복사(deep copy, shallow copy)
- - 매크로 (자가진단)
- - 자바 입출력
- - 채팅(Socket, SeverSocket)
