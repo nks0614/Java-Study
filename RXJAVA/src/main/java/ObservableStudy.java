@@ -55,7 +55,7 @@ public class ObservableStudy {
         Thread.sleep(3000);
 
         // Hot Observable, 아이템 발행이 시작된 이루노느 모든 구독자에게 같은 아이템을 발행
-        // 그렇기에 나중에 들어온 구독자는 이전의 정보를 놓칠 수 있다. 
+        // 그렇기에 나중에 들어온 구독자는 이전의 정보를 놓칠 수 있다.
         ConnectableObservable hot =
                 Observable.interval(1, TimeUnit.SECONDS).publish();
         hot.connect();

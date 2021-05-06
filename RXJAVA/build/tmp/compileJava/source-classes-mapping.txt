@@ -2,3 +2,5 @@ StartRx.java
  StartRx
 ObservableStudy.java
  ObservableStudy
+DisposableStudy.java
+ DisposableStudy
