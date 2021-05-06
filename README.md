@@ -14,6 +14,8 @@
  - 채팅(Socket, SeverSocket)
 
 #### RxJava 공부
+ - Observable ( Hot, Cold )
+ - Dispose ( CompositeDisposable )
 
 #### Programmers 문제
 
