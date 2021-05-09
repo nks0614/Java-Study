@@ -1,10 +1,12 @@
-ObservableStudy.java
- ObservableStudy
+ObservableChange.java
+ ObservableChange
 DisposableStudy.java
  DisposableStudy
 StartRx.java
  StartRx
-ObservableChange.java
- ObservableChange
+ObservableStudy.java
+ ObservableStudy
 ObservableFilter.java
  ObservableFilter
+ObservableCombination.java
+ ObservableCombination
