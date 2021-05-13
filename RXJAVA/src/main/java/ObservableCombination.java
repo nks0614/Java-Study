@@ -4,7 +4,9 @@ public class ObservableCombination {
 
     public static void main(String[] args) {
 
-        // combineLatest, 두 Observable에서 가장 최근에 발행된 아이템들을 취합하여 하나로 발행
+        /*
+         * combineLatest, 두 Observable에서 가장 최근에 발행된 아이템들을 취합하여 하나로 발행
+         */
         Observable<Integer> source1 = Observable.create((emitter -> {
             new Thread(() -> {
                 for (int i = 1; i <= 5; i++) {
@@ -33,12 +35,12 @@ public class ObservableCombination {
         // 1     2     3     4     5
         //    A    BC  D
 
-//        Observable.combineLatest(source1, source2, (num, str) -> num + str)
-//                .subscribe(System.out::println);
+        Observable.combineLatest(source1, source2, (num, str) -> num + str)
+                .subscribe(System.out::println);
 
         // zip, zip은 combineLatest와 다르게 최근에 발행한 순서가 아닌, 1:1 관계로 묶어준다.
-        Observable.zip(source1, source2, (num, str) -> num + str)
-                .subscribe(System.out::println);
+//        Observable.zip(source1, source2, (num, str) -> num + str)
+//                .subscribe(System.out::println);
     }
 
 }
