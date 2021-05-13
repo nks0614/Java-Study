@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.HashMap;
 
-public class Hashmap {
+public class HashmapStudy {
 
     public static void main(String[] args) {
         HashMap<String,String> map1 = new HashMap<String,String>(); //HashMap생성
@@ -16,12 +16,12 @@ public class Hashmap {
 
         HashMap<Integer, String> testMap = new HashMap<>();
         testMap.put(1, "사과");
+        testMap.put(1, "apple"); // 1번 키 값이 apple로 변경
         testMap.put(2, "바나나");
         testMap.put(3, "포도");
 
-        testMap.remove(1);
 
-        System.out.println(testMap.get(2));
+        System.out.println(testMap);
     }
 
 }

@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Immigration {
 
     public static void main(String[] args) {
-        int[] times = {1, 1, 10};
+        int[] times = {7, 10};
         System.out.println(solution(6, times));
 
     }
@@ -41,9 +41,8 @@ public class Immigration {
         // mid : 심사를 받는데 주어진 시간
         // sum : 주어진 시간(mid)동안 심사를 받을 수 있는 사람 수
         while (start <= end) {
-
             mid = (start + end) / 2;
-
+            System.out.println("Start : " + start + " End :" + end + " Mid : " +mid);
             sum = 0;
             // 주어진 시간동안 몇명 검사 할 수 있는지 누적합
             for (int i = 0; i < times.length; i++) {
@@ -52,7 +51,7 @@ public class Immigration {
                 if (sum >= n)
                     break;
             }
-
+            System.out.println("Sum : "+sum);
             // 비교 대상(사람 수)
             // 검사 다 못할 때(시간 부족)
             if (n > sum) {
@@ -63,7 +62,9 @@ public class Immigration {
             else {
                 end = mid - 1;
                 answer = Math.min(answer, mid);
+                System.out.println("answer : " + answer);
             }
+            System.out.println("-----------------------------");
         }
 
         return answer;
