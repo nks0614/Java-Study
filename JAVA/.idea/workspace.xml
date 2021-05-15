@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programmers/Camouflage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/EnglishShiritori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/PonketMon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/HashmapStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/Immigration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/Immigration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +41,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.EnglishShiritori">
+  <component name="RunManager" selected="Application.Lotto">
     <configuration name="Camouflage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.Camouflage" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concept.DateTest" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="concept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +81,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Immigration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.Immigration" />
+    <configuration name="Lotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.Lotto" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PonketMon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.PonketMon" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lotto" />
+        <item itemvalue="Application.PonketMon" />
         <item itemvalue="Application.EnglishShiritori" />
         <item itemvalue="Application.HashmapStudy" />
         <item itemvalue="Application.Camouflage" />
-        <item itemvalue="Application.Immigration" />
-        <item itemvalue="Application.DateTest" />
       </list>
     </recent_temporary>
   </component>
