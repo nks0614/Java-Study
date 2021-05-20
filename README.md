@@ -14,7 +14,7 @@
  - 채팅(Socket, SeverSocket)
 
 #### RxJava 공부
- - Observable ( Hot, Cold )
+ - Observable ( Hot, Cold, Combination, Filtering, Change )
  - Dispose ( CompositeDisposable )
 
 #### Programmers 문제
@@ -55,4 +55,10 @@
  - 124 나라
  - 체육복
  - 기능 
-
+ - 소수 만들기
+ - 로또번호 최고 등수와 최저 등수
+ - 폰켓몬
+ - 위장
+ - 영어 끝말잇기
+ - 부호 더하기
+ - 입국 심사
