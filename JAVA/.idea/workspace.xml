@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878d615c-357f-42b8-be7a-571d25ccae80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programmers/MatrixPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/StringSortOnTheWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/macro/MacroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/macro/MacroTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,26 +41,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ReverseNumberMakeArray">
-    <configuration name="BridgeTrucks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.BridgeTrucks" />
+  <component name="RunManager" selected="Application.MacroTest">
+    <configuration name="MacroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="macro.MacroTest" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.FactorPlus" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
+          <option name="PATTERN" value="macro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringSortOnTheWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.StringSortOnTheWay" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MacroTest" />
+        <item itemvalue="Application.StringSortOnTheWay" />
         <item itemvalue="Application.ReverseNumberMakeArray" />
         <item itemvalue="Application.MatrixPlus" />
         <item itemvalue="Application.SampleReflection" />
-        <item itemvalue="Application.FactorPlus" />
-        <item itemvalue="Application.BridgeTrucks" />
       </list>
     </recent_temporary>
   </component>
@@ -152,5 +154,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm$MacroTest.ic" NAME="MacroTest Coverage Results" MODIFIED="1622542004329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>macro.*</FILTER>
+    </SUITE>
   </component>
 </project>
