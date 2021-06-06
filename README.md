@@ -12,6 +12,7 @@
  - 매크로 (자가진단)
  - 자바 입출력
  - 채팅(Socket, SeverSocket)
+ - 자바 
 
 #### RxJava 공부
  - Observable ( Hot, Cold, Combination, Filtering, Change )
@@ -62,3 +63,5 @@
  - 영어 끝말잇기
  - 부호 더하기
  - 입국 심사
+ - 문자열 내 마음대로 정렬하기
+ - 
